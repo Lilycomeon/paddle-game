@@ -27,8 +27,6 @@ The scores of each player are displayed at the top of the screen. The numbers ar
 3. Start playing the game with a friend using the designated controls.
 
 ## Technologies Used
-HTML
-CSS
 JavaScript
 
 ## Game Preview
